@@ -1,0 +1,9 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+Creds/
+Creds.py
+share/
+__pycache__/
+.cache
